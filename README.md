@@ -37,4 +37,4 @@ See hostname of every node
 ```bash
 ./scripts/run_on_all.sh hostname
 
-```text
+
